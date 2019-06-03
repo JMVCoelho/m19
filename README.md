@@ -11,7 +11,7 @@ Specification: See _m19_spec.pdf_
 There's a folder with tests.   
 
 
-## Auxilair libraries
+## Auxiliary libraries  
 
 To run this compiler you need to install two libraries included here:  
 
